@@ -54,14 +54,14 @@ ul{
     row-gap: 50px;
 }
 
-.grid-item, .tv-girl{
+.grid-item, .tv-girl, .alexg, .pixies, .arctic-monkeys{
     width: 250px;
     height: 250px;
     background-color: black;
     transition: 0.2s;
 }
 
-.grid-item:hover, .tv-girl:hover{
+.tv-girl:hover, .alexg:hover, .pixies:hover, .arctic-monkeys:hover{
     transform: scale(105%);
     transition: 0.2s;
 }
